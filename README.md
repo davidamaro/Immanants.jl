@@ -1,4 +1,5 @@
 # Immanants.jl
+[![Build Status](https://travis-ci.org/davidamaro/Immanants.jl.svg?branch=master)](https://travis-ci.org/davidamaro/Immanants.jl)
 Extension of AbstractAlgebra.jl able to compute immanants.
 
 ## Example (from `runtests.jl`)
